@@ -28,7 +28,7 @@ La guía se divide en secciones estratégicas para un diagnóstico eficiente:
 ## 📥 Descarga del Recurso
 Para obtener la versión completa en formato PDF, dirigite a la sección de lanzamientos:
 
-👉 **[DESCARGAR ÚLTIMA VERSIÓN AQUÍ](https://github.com/TU_USUARIO/TU_REPO/releases/latest)**
+👉 **[DESCARGAR ÚLTIMA VERSIÓN AQUÍ](https://github.com/billy-cg/Guia-Reparacion-Windows-PC/releases/tag/v1.0.0)**
 
 ---
 
